@@ -1,6 +1,6 @@
 date,nb_confirmes,nb_quarantaines,nb_autoconfinement,nb_remissions,nb_deces,nb_tests_de_ce_jour
-2020/03/17,0,0,0,0,0,
-2020/03/18,2,0,0,0,0,
+2020/03/17,0,0,0,0,0,0
+2020/03/18,2,0,0,0,0,0
 2020/03/19,2,0,0,0,0,18
 2020/03/20,2,18,1179,0,0,28
 2020/03/21,4,18,1179,0,0,40
@@ -26,3 +26,4 @@ date,nb_confirmes,nb_quarantaines,nb_autoconfinement,nb_remissions,nb_deces,nb_t
 2020/04/10,18,318,2647,0,0,71
 2020/04/11,18,318,2745,0,0,65
 2020/04/12,18,356,2757,0,0,12
+2020/04/13,18,577,"",0,0,32
