@@ -1,6 +1,6 @@
 # covid19-action-plan-nc
 
-Projet de gestion de mes tâches liées aux actions autour de la crise saniatire du COVD-19 en Nouvelle-Calédonie
+Projet de gestion de mes tâches liées aux actions autour de la crise sanitaire du COVID-19 en Nouvelle-Calédonie
 
 
 # Réalisations
@@ -12,5 +12,5 @@ Projet de gestion de mes tâches liées aux actions autour de la crise saniatire
 
 # Ressources
 
-- [Point de situation officiel](https://covid19.nc/point-de-situation-en-nouvelle-caledonie/)
+- [Point de situation officiel](https://gouv.nc/coronavirus)
 
