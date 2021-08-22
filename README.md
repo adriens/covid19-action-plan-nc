@@ -11,6 +11,7 @@ Projet de gestion de mes tâches liées aux actions autour de la crise sanitaire
 - [Pétition pour ouverture des données en Open Data](http://chng.it/qhsd5bbKdm)
 - [Google Trends de COVID-19 en Nouvelle Calédonie](https://trends.google.com/trends/explore?q=coronavirus&geo=NC#TIMESERIES)
 - [Scénario KataCoda de démo](https://www.katacoda.com/devops-labs/courses/postgresql/covid-psql)
+- [Présentation de la repo sur Youtube](https://youtu.be/mf82Ya-LqTE)
 
 # Ressources
 
