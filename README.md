@@ -8,12 +8,12 @@ Depuis le mercredi 08/09/2021, cf [#64](https://github.com/adriens/covid19-actio
 chiffres suivants ne sont plus communiqués :
 
 - nb. de personnes en quatorzaine
-- n. de tests quotidiens
+- nb. de tests quotidiens
 
 En conséquence, et afin de garantir l'intégralité du modèle de données :
 
 - Lorsqu'un champ n'a pas la donné numérique : remplir avec `-1`
-- Un nouveau [fichier simplifié `covid19-nc-cas-actifs_deces.csv`](https://github.com/adriens/covid19-action-plan-nc/blob/master/data/covid19-nc-cas-actifs_deces.csv) a été créé et sera maintenu avec moins de colonnes : y sont consignés les cas confirmés, le nb. de décès, le nb. de premières et secondes injections
+- Un nouveau fichier simplifié [`covid19-nc-cas-actifs_deces.csv`](https://github.com/adriens/covid19-action-plan-nc/blob/master/data/covid19-nc-cas-actifs_deces.csv) a été créé et sera maintenu avec moins de colonnes : y sont consignés les cas confirmés, le nb. de décès, le nb. de premières et secondes injections
 
 
 # Réalisations
