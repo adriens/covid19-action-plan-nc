@@ -2,6 +2,9 @@
 
 Projet de gestion de mes tâches liées aux actions autour de la crise sanitaire du COVID-19 en Nouvelle-Calédonie
 
+- [Chifres quotidiens](https://gouv.nc/coronavirus)
+- [Vaccination](https://gouv.nc/vaccination)
+
 # ⚠️ Convention sur les données
 
 Depuis le mercredi 08/09/2021, cf [#64](https://github.com/adriens/covid19-action-plan-nc/issues/64), les
