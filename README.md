@@ -28,6 +28,7 @@ En conséquence, et afin de garantir l'intégralité du modèle de données :
 - [Google Trends de COVID-19 en Nouvelle Calédonie](https://trends.google.com/trends/explore?q=coronavirus&geo=NC#TIMESERIES)
 - [Scénario KataCoda de démo](https://www.katacoda.com/devops-labs/courses/postgresql/covid-psql)
 - [Présentation de la repo sur Youtube](https://youtu.be/mf82Ya-LqTE)
+- [Race chart : rétrospective des cas confirmés sur 2021](https://public.flourish.studio/visualisation/8449676/)
 
 # Ressources
 
